@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lolflex/static/css/main.073c9b0a.css",
+    "main.js": "/lolflex/static/js/main.97ee75b6.js",
+    "static/js/787.375f22f6.chunk.js": "/lolflex/static/js/787.375f22f6.chunk.js",
+    "static/media/logo.svg": "/lolflex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lolflex/index.html",
+    "main.073c9b0a.css.map": "/lolflex/static/css/main.073c9b0a.css.map",
+    "main.97ee75b6.js.map": "/lolflex/static/js/main.97ee75b6.js.map",
+    "787.375f22f6.chunk.js.map": "/lolflex/static/js/787.375f22f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.97ee75b6.js"
+  ]
+}
